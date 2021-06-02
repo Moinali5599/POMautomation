@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-31T12:22:30 IST" name="Default suite" finished-at="2021-05-31T12:22:57 IST" duration-ms="27039">
+    <groups>
+    </groups>
+    <test started-at="2021-05-31T12:22:30 IST" name="Default test" finished-at="2021-05-31T12:22:57 IST" duration-ms="27039">
+      <class name="com.datadriven.test.login.LoginTest">
+        <test-method signature="testOne()[pri:0, instance:com.datadriven.test.login.LoginTest@a2431d0]" started-at="2021-05-31T12:22:30 IST" name="testOne" finished-at="2021-05-31T12:22:41 IST" duration-ms="10884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method signature="testTwo()[pri:0, instance:com.datadriven.test.login.LoginTest@a2431d0]" started-at="2021-05-31T12:22:41 IST" name="testTwo" finished-at="2021-05-31T12:22:57 IST" duration-ms="16104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- com.datadriven.test.login.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
